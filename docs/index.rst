@@ -3,7 +3,6 @@ How to Contact Big Fish Games Help Center
 
 Big Fish Games offers a variety of games for computers and mobile devices. While many games can be downloaded, installed, and played without difficulty, users may occasionally encounter problems with accounts, purchases, billing, downloads, installations, or game performance.
 
-
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
