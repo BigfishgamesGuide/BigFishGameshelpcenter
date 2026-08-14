@@ -7,7 +7,7 @@ Big Fish Games offers a variety of games for computers and mobile devices. While
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://arsresolution.com/
    :alt: Support Now Button
 
 
